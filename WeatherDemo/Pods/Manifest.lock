@@ -1,3 +1,22 @@
-PODFILE CHECKSUM: b741241795ee37b8332b711739de182768e9ee63
+PODS:
+  - SDWebImage (5.10.2):
+    - SDWebImage/Core (= 5.10.2)
+  - SDWebImage/Core (5.10.2)
+  - SideMenu (6.5.0)
 
-COCOAPODS: 1.9.3
+DEPENDENCIES:
+  - SDWebImage (~> 5.0)
+  - SideMenu (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SideMenu
+
+SPEC CHECKSUMS:
+  SDWebImage: b969dcfc02c40a5da71eac0b03b8f1a0c794a86f
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: f7ce1972f6752bc2080e48db37e827c1a43c037a
+
+COCOAPODS: 1.10.0
